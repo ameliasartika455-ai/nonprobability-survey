@@ -40,6 +40,16 @@ Variabel yang digunakan dalam penelitian ini meliputi:
 - Fakultas
 - Program Studi
 - Pertanyaan kepuasan penggunaan Zoom Meeting (P1–P10)
+- P1(Bagaimana kepuasan Anda terhadap kemudahan penggunaan Zoom Meeting saat perkuliahan daring?)
+- P2(Bagaimana kepuasan Anda terhadap tampilan Zoom Meeting selama digunakan?)
+- P3(Bagaimana kepuasan Anda terhadap kualitas audio pada Zoom Meeting?)
+- P4(Bagaimana kepuasan Anda terhadap kualitas video pada Zoom Meeting?)
+- P5(Bagaimana kepuasan Anda terhadap fitur-fitur Zoom Meeting dalam mendukung pembelajaran?)
+- P6(Bagaimana kepuasan Anda terhadap komunikasi antara dosen dan mahasiswa melalui Zoom Meeting?)
+- P7(Bagaimana kepuasan Anda terhadap penyampaian materi melalui Zoom Meeting?)
+- P8(Bagaimana kepuasan Anda terhadap penggunaan Zoom Meeting dalam membantu proses belajar?)
+- P9(Bagaimana kepuasan Anda terhadap penggunaan Zoom Meeting selama perkuliahan daring berlangsung?)
+- P10(Bagaimana kepuasan Anda secara keseluruhan terhadap penggunaan Zoom Meeting dalam perkuliahan daring?)
 
 ## Uji Validitas
 Berdasarkan hasil uji validitas, seluruh item pernyataan memiliki nilai korelasi lebih besar dari r tabel sehingga seluruh item dinyatakan valid dan dapat digunakan dalam penelitian.
