@@ -13,23 +13,29 @@ Penelitian ini menggunakan metode survei dengan teknik non-probability sampling 
 
 ## Penentuan Jumlah Sampel
 Jumlah sampel ditentukan menggunakan rumus Slovin:
+
 n = N / (1 + Ne²)
+
 Keterangan:
 - n = jumlah sampel
 - N = jumlah populasi
 - e = tingkat kesalahan
+
 Diketahui:
 - N = 1879 mahasiswa
 - e = 18% atau 0,18
+  
 Perhitungan:
 n = 1879 / (1 + 1879(0,18²))
 n = 1879 / (1 + 1879(0,0324))
 n = 1879 / 61.8796
 n ≈ 30
+
 Sehingga jumlah sampel yang digunakan dalam penelitian ini adalah 30 responden.
 
 ## Variabel Penelitian
 Variabel yang digunakan dalam penelitian ini meliputi:
+
 - Nama responden
 - Fakultas
 - Program Studi
@@ -44,50 +50,69 @@ Hasil uji reliabilitas menunjukkan nilai Cronbach’s Alpha sebesar 0,852. Karen
 ## Analisis Deskriptif
 Analisis deskriptif dilakukan dengan membuat tabel frekuensi, persentase, dan grafik distribusi responden berdasarkan program studi.
 Berdasarkan hasil analisis statistik deskriptif diperoleh:
+
 - Jumlah responden sebanyak 30 mahasiswa
 - Nilai minimum sebesar 26
 - Nilai maksimum sebesar 43
 - Mean sebesar 38,50
 - Standar deviasi sebesar 4,313
+
 Hasil tersebut menunjukkan bahwa mahasiswa cukup puas terhadap penggunaan Zoom Meeting dalam perkuliahan daring.
 
 ## Naive Estimation
 Naive estimation digunakan untuk menghitung estimasi proporsi secara langsung berdasarkan jumlah responden yang memberikan respon positif terhadap penggunaan Zoom Meeting dalam perkuliahan daring menggunakan rumus:
+
 p̂ = Jumlah Responden Puas / Total Responden
+
 dengan:
 x = jumlah responden yang merasa cukup puas, puas, dan sangat puas
 n = total responden
+
 Berdasarkan hasil kuesioner diperoleh:
+
 cukup puas = 3 responden
 puas = 14 responden
 sangat puas = 11 responden
+
 Sehingga jumlah responden yang merasa puas adalah:
+
 p̂ = 28 / 30 = 0,933
+
 Hasil tersebut menunjukkan bahwa 93,3% responden merasa cukup puas hingga sangat puas terhadap penggunaan Zoom Meeting dalam perkuliahan daring.
 
 ## Weighted Estimation
 Weighting sederhana dilakukan untuk menyesuaikan distribusi sampel dengan distribusi populasi menggunakan rumus:
 wi = Proporsi Populasi / Proporsi Sampel
+
 Metode weighting digunakan untuk mengurangi bias akibat perbedaan distribusi responden dengan populasi sebenarnya.
 Jumlah populasi mahasiswa FMIPA diperoleh sebagai berikut:
+
 - Matematika = 365
 - Kimia = 331
 - Fisika = 311
 - Biologi = 359
 - Ilmu Lingkungan = 348
 - Statistika = 165
+
 Total populasi:
+
 N = 1879
+
 Sedangkan jumlah sampel responden:
+
 - Biologi = 4
 - Kimia = 5
 - Fisika = 2
 - Matematika = 2
 - Ilmu Lingkungan = 5
 - Statistika = 12
+  
 Total sampel:
+
 n = 30
+
 Bobot masing-masing program studi diperoleh sebagai berikut:
+
 Hasil weighting menunjukkan bahwa program studi Matematika memiliki bobot sebesar 2.910, Kimia sebesar 1.054, Fisika sebesar 2.478, Biologi sebesar 1.436, Ilmu Lingkungan sebesar 1.108, dan Statistika sebesar 0.220. Bobot yang lebih besar menunjukkan bahwa jumlah responden pada sampel lebih sedikit dibandingkan proporsi populasi sebenarnya, sehingga perlu diperbesar dalam proses estimasi. Sebaliknya, bobot yang lebih kecil menunjukkan bahwa jumlah responden pada sampel lebih banyak dibandingkan proporsi populasi sehingga perlu diperkecil.
   
 ## Perbandingan Estimasi
