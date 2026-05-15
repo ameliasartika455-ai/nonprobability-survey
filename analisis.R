@@ -117,7 +117,7 @@ p_hat_weighted_final <- sum((puas_per_prodi / sampel) * prop_pop)
 # 3. CEK HASILNYA
 print(p_hat_weighted_final)
 
-# 4. BUAT GRAFIK PERBANDINGAN (Cuma 2 Batang)
+# 4. BUAT GRAFIK PERBANDINGAN 
 angka_grafik <- c(p_hat, p_hat_weighted_final)
 names(angka_grafik) <- c("Naive", "Weighted")
 
@@ -127,5 +127,4 @@ barplot(angka_grafik,
         ylim = c(0, 1.2),
         ylab = "Tingkat Kepuasan")
 
-# Tambah angka di atas batang
 text(x = c(0.7, 1.9), y = angka_grafik, labels = round(angka_grafik, 3), pos = 3)
