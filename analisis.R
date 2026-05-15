@@ -110,14 +110,13 @@ puas_per_prodi <- c(
   statistika = 10
 )
 
-# 2. HITUNG NILAI GABUNGAN (Weighted Estimation)
-# Sekarang R sudah kenal 'puas_per_prodi', jadi tidak akan error
+#  HITUNG NILAI GABUNGAN (Weighted Estimation)
 p_hat_weighted_final <- sum((puas_per_prodi / sampel) * prop_pop)
 
-# 3. CEK HASILNYA
+# CEK HASILNYA
 print(p_hat_weighted_final)
 
-# 4. BUAT GRAFIK PERBANDINGAN 
+# BUAT GRAFIK PERBANDINGAN 
 angka_grafik <- c(p_hat, p_hat_weighted_final)
 names(angka_grafik) <- c("Naive", "Weighted")
 
